@@ -1,7 +1,7 @@
 Install the dependencies by 
  - npm install
 
-To the application 
+To run the application 
 - npm start
 
 To run the test cases
